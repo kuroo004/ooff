@@ -1,4 +1,4 @@
-# 🤖 AI Interview Assistant - Complete Solution
+# 🤖 AI Interview Assistant 
 
 <div align="center">
 
@@ -804,3 +804,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 [Back to Top](#-ai-interview-assistant---complete-solution)
 
 </div>
+
